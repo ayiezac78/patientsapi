@@ -1,0 +1,27 @@
+{
+  "patients": [
+    {
+      "patientData": {
+        "date": "03/24/2023",
+        "period": "PM",
+        "firstName": "Irene",
+        "lastName": "Tabuada",
+        "age": "28",
+        "gender": "Female",
+        "address": "asd",
+        "emailAddress": "irene@gmail.com",
+        "contactNumber": "09123456789",
+        "medicalConcern": "asdasd",
+        "ids": "0003"
+      },
+      "id": "0003"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@clinic.com",
+      "password": "password"
+    }
+  ]
+}
